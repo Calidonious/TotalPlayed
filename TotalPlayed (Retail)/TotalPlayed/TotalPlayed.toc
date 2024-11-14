@@ -1,0 +1,7 @@
+## Interface: 110005
+## Title: TotalPlayed
+## Author: Calidonious
+## Version: 1.0
+## SavedVariables: TotalPlayedDB
+TotalPlayed.lua
+TotalPlayed.xml
